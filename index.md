@@ -1,2 +1,1 @@
-# dump
-[pocket camp club journal](/journal.md)
+- [Pocket Camp Club Journal](/journal.md)
